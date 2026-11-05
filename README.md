@@ -4,9 +4,7 @@ A modern, responsive website concept for an automotive service and repair center
 
 ## Live Demo
 
-After enabling GitHub Pages, visit:
-
-https://mkaceduet-hub.github.io/automotive-service-center-website/
+[View the live website](https://mkaceduet-hub.github.io/automotive-service-center-website/)
 
 ## Project Features
 
@@ -25,11 +23,18 @@ https://mkaceduet-hub.github.io/automotive-service-center-website/
 - CSS3 (Grid, Flexbox, responsive media queries)
 - Vanilla JavaScript
 
+## Project Files
+
+- `index.html` — website structure and content
+- `style.css` — visual design and responsive styles
+- `script.js` — navigation and appointment form interactions
+
 ## Getting Started
 
 1. Clone or download this repository.
-2. Open `index.html` in a modern browser.
-3. Edit the content, contact details, images, and brand information to suit your business.
+2. Open the project folder in Sublime Text.
+3. Open `index.html` in a modern browser.
+4. Visit the live demo using the link above.
 
 ## Important Customization Notes
 
